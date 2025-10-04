@@ -4319,8 +4319,6 @@ public class AlvearMj_ProjectPrelims extends JPanel {
     }
   }
 
-  /** Small UI for toggling outlines and shading to demonstrate flexibility. */
-
 
   /** Entry point with resizable frame; composition scales automatically. */
   public static void main(String[] args){
@@ -4335,4 +4333,5 @@ public class AlvearMj_ProjectPrelims extends JPanel {
       f.setVisible(true);
     });
   }
+
 }
