@@ -82,10 +82,12 @@ Each `paintShapeNode_N` constructs shapes/paths and performs fill/stroke using t
 ---
 
 ## Screenshots to include
+<img width="912" height="517" alt="screen_shot" src="https://github.com/user-attachments/assets/54bfd541-b5ec-4087-987f-ca4ac98333d3" />
 
 - `output_image.png` 
 - `screen_shot.png` 
 - `original_image.jpg`
+- 
 
 ---
 
