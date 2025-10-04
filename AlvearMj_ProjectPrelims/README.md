@@ -87,7 +87,6 @@ Each `paintShapeNode_N` constructs shapes/paths and performs fill/stroke using t
 - `output_image.png` 
 - `screen_shot.png` 
 - `original_image.jpg`
-- 
 
 ---
 
